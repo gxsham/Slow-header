@@ -1,0 +1,14 @@
+c:\users\gxsham\documents\visual studio 2015\Projects\lab6PR\lab6PR\bin\Debug\lab6PR.exe.config
+c:\users\gxsham\documents\visual studio 2015\Projects\lab6PR\lab6PR\bin\Debug\lab6PR.exe
+c:\users\gxsham\documents\visual studio 2015\Projects\lab6PR\lab6PR\bin\Debug\lab6PR.pdb
+c:\users\gxsham\documents\visual studio 2015\Projects\lab6PR\lab6PR\obj\Debug\lab6PR.csprojResolveAssemblyReference.cache
+c:\users\gxsham\documents\visual studio 2015\Projects\lab6PR\lab6PR\obj\Debug\MainWindow.g.cs
+c:\users\gxsham\documents\visual studio 2015\Projects\lab6PR\lab6PR\obj\Debug\App.g.cs
+c:\users\gxsham\documents\visual studio 2015\Projects\lab6PR\lab6PR\obj\Debug\lab6PR_MarkupCompile.cache
+c:\users\gxsham\documents\visual studio 2015\Projects\lab6PR\lab6PR\obj\Debug\lab6PR_MarkupCompile.lref
+c:\users\gxsham\documents\visual studio 2015\Projects\lab6PR\lab6PR\obj\Debug\MainWindow.baml
+c:\users\gxsham\documents\visual studio 2015\Projects\lab6PR\lab6PR\obj\Debug\lab6PR.g.resources
+c:\users\gxsham\documents\visual studio 2015\Projects\lab6PR\lab6PR\obj\Debug\lab6PR.Properties.Resources.resources
+c:\users\gxsham\documents\visual studio 2015\Projects\lab6PR\lab6PR\obj\Debug\lab6PR.csproj.GenerateResource.Cache
+c:\users\gxsham\documents\visual studio 2015\Projects\lab6PR\lab6PR\obj\Debug\lab6PR.exe
+c:\users\gxsham\documents\visual studio 2015\Projects\lab6PR\lab6PR\obj\Debug\lab6PR.pdb
